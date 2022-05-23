@@ -168,13 +168,13 @@ class lab8:
 
 
 
-
-wizualizacja = lab8()
-#wizualizacja.zad2()
-#wizualizacja.zad1()
-#wizualizacja.plot_3d()
-#wizualizacja.animate_3d()
-wizualizacja.zadanie5()
+if __name__ == "__main__":
+    wizualizacja = lab8()
+    #wizualizacja.zad2()
+    #wizualizacja.zad1()
+    #wizualizacja.plot_3d()
+    #wizualizacja.animate_3d()
+    #wizualizacja.zadanie5()
 
 
 
